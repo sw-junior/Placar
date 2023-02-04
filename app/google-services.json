@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "760682004148",
+    "project_id": "placar-f225a",
+    "storage_bucket": "placar-f225a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760682004148:android:4b4ce4b4249b2c4c1b61e1",
+        "android_client_info": {
+          "package_name": "com.placar.tigre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760682004148-7jqdjppn4jt58jt4nd0n88pbtp5pku7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.placar.tigre",
+            "certificate_hash": "de5864b377cfa8deea60466b589e20be19d69ab2"
+          }
+        },
+        {
+          "client_id": "760682004148-1u2kg2j809kkl75o697takrbai8kf4tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq1sMVpm57Y8HSFxSo4bcPvK1iW41Jc70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760682004148-1u2kg2j809kkl75o697takrbai8kf4tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
